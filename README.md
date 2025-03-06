@@ -3,8 +3,8 @@ The FinMan is a lightweight web application that helps users manage their daily 
 
 # Steps to Install
 1. Create .env file in backend folder
-   MONGO_URI = db_link ,\n
-   JWT_SECRET = 'secretkey' ,\n
+   MONGO_URI = db_link ,<br>
+   JWT_SECRET = 'secretkey' ,<br>
    PORT = 8000
 
 2. cd frontend npm install
