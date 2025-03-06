@@ -30,7 +30,7 @@ const App = () => {
       <nav className="navbar navbar-expand-lg navbar-light bg-light shadow-sm">
         <div className="container">
           <Link className="navbar-brand" to="/">
-            💸 Finance Manager App
+            💸 FinMan App
           </Link>
           <div className="navbar-nav">
             { isLoggedIn && (
