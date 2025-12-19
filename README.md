@@ -26,9 +26,7 @@ Step 5: To run Frontend
     npm run dev
 ```
 
-# Images
-
-## DashBoard
+## DashBoard Screenshot
 <img width="1252" height="911" alt="Screenshot (160)" src="https://github.com/user-attachments/assets/f3454db5-1770-40c1-970f-6982957935f4" />
 
 
