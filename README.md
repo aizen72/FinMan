@@ -28,9 +28,6 @@ Step 5: To run Frontend
 
 # Images
 
-## Login Page
-<img width="1681" height="926" alt="Screenshot (161)" src="https://github.com/user-attachments/assets/40abc855-3ee5-4250-9455-4fcae6d9af99" />
-
 ## DashBoard
 <img width="1252" height="911" alt="Screenshot (160)" src="https://github.com/user-attachments/assets/f3454db5-1770-40c1-970f-6982957935f4" />
 
